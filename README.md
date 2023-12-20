@@ -30,11 +30,11 @@
    
 ### 相關證照
  - AWS GoogleDataAnalyticsCertification <BR>
- ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg))
+ ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg)
   <img src="https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg" width="500" height="280"><BR>
- - AWS Toefl <BR>
+ - Toefl <BR>
  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/托福PNG.png)
-   <img src="https://github.com/KuanTimLin/images/blob/main/托福PNG.png" width="500" height="280"><BR>
+   
 
 ### 作品集 
  # 線上書商網站 (booknote)
