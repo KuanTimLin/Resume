@@ -46,8 +46,12 @@
    此處使用的資料為Kaggle上此作者的著作:(https://www.kaggle.com/datasets/naumanaarif/csgo-pro-players-dataset)
    
 #＃使用R來處理資料
+
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/R%20語言1.png)
+
+
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/R語言2.png)
+
 
 #步槍手正相關圖
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/步槍手.JPG)
