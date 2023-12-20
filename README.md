@@ -29,9 +29,9 @@
 <hr>
    
 ### 相關證照
- - AWS GoogleDataAnalyticsCertification <BR>
+ - GoogleDataAnalyticsCertification <BR>
  ![Image Alt text](GoogleDataAnalytics.jpg))
-   <img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="280"><BR>
+   <img src="GoogleDataAnalytics.jpg" width="500" height="280"><BR>
  - AWS Toefl <BR>
    <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="280"><BR>
 
