@@ -31,7 +31,7 @@
 ### 相關證照
  - AWS GoogleDataAnalyticsCertification <BR>
  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg)
-  <img src="https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg" width="500" height="280"><BR>
+
  - Toefl <BR>
  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/托福PNG.png)
    
