@@ -30,7 +30,7 @@
    
 ### 相關證照
  - GoogleDataAnalyticsCertification <BR>
- ![Image Alt text](https://imgur.com/A4Doelj))
+ ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg))
  - AWS Toefl <BR>
    <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="280"><BR>
 
