@@ -39,11 +39,9 @@
 ### 作品集 
  #＃ 分析CS選手比賽數據
  - CS為目前世界上最大FPS(第一人稱射擊遊戲）電競比賽，此作品集旨在分析選手個人準度與對比賽輸贏影響力之間是否呈現正相關。
-   個人準度指標：
-    步槍手（暴頭率＊擊殺數/死亡數）
-    狙擊手（擊殺數/死亡數）
-   對比賽輸贏影響力：
-    這裡使用的Rating是源自於HLTV，是一個綜和擊殺數、助攻、道具投擲助攻...etc.的指標。數值愈大，這選手越強，有他在勝率越高。詳細說明可見這支影片講解：（https://www.youtube.com/watch?v=4rs1E4eKZcg&t=196s)
+    *個人準度指標：步槍手（暴頭率＊擊殺數/死亡數)＆狙擊手(擊殺數/死亡數）
+    *對比賽輸贏影響力：這裡使用的Rating是源自於HLTV，是一個綜和指標。數值愈大，這選手越強，有他在勝率越高。
+    *詳細Rating定義可見這支影片：https://www.youtube.com/watch?v=4rs1E4eKZcg&t=196s
    
    此處使用的資料為Kaggle上此作者的著作:(https://www.kaggle.com/datasets/naumanaarif/csgo-pro-players-dataset)
    
