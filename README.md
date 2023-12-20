@@ -29,9 +29,10 @@
 <hr>
    
 ### 相關證照
- - AWS Certified DevOps Engineer Professional <BR>
+ - AWS GoogleDataAnalyticsCertification <BR>
+ ![Image Alt text](/images/GoogleDataAnalytics.jpg))
    <img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="280"><BR>
- - AWS Certified Cloud Practitioner <BR>
+ - AWS Toefl <BR>
    <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="280"><BR>
 
 ### 作品集 
