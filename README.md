@@ -29,7 +29,7 @@
 <hr>
    
 ### 相關證照
- - AWS GoogleDataAnalyticsCertification <BR>
+ - GoogleDataAnalyticsCertification <BR>
  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/GoogleDataAnalytics.jpg)
 
  - Toefl <BR>
