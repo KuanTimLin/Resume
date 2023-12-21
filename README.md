@@ -104,13 +104,14 @@
 
 ### 作品集 2
  ## 製作CS物品的市場爬蟲交易模型
- # CS裡面的槍枝造型，為現在市面上最大型的遊戲虛寶交易市場。此作品集旨在建立爬蟲模型監控西方市場狀況，並且在大陸買入低價造型，賺取價差。
+  CS裡面的槍枝造型，為現在市面上最大型的遊戲虛寶交易市場。此作品集旨在建立爬蟲模型監控西方市場狀況，並且在大陸買入低價造型，賺取價差。
  - 使用Python獲取API資料
  - 將資料送進SQL處理
  - 再將處理完的資料export到Excel
  - 用Excel整理資料，做出交易決策。
 
  #1.使用Python獲取API資料
+ 
  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/Python%20API.png)
 
  #2.將資料送進SQL處理
@@ -140,7 +141,7 @@
 使用conditional formating，獲利=綠色，無獲利=紅色。
 
 
-![Image Alt text](https://github.com/KuanTimLin/images/blob/main/pivot%20table%203.png)
+![Image Alt text](https://github.com/KuanTimLin/images/blob/main/pivottable%202.png)
 
 
 依結果決定要不要買入。
