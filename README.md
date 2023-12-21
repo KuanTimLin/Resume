@@ -98,6 +98,7 @@
 
 
 #Tableau視覺化呈現
+
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/Tableau圖表.png)
 
 
@@ -115,8 +116,11 @@
  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/Python%20API.png)
 
  #2.將資料送進SQL處理
+ 
  先把json檔丟入json to csv converter，轉成csv再上傳至BigQuery。
+ 
   ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/SQL%20API.png)
+  
 再Export資料到EXCEL
 
 
