@@ -107,7 +107,43 @@
  # CS裡面的槍枝造型，為現在市面上最大型的遊戲虛寶交易市場。此作品集旨在建立爬蟲模型監控西方市場狀況，並且在大陸買入低價造型，賺取價差。
  - 使用Python獲取API資料
  - 將資料送進SQL處理
- - 再將資料export到Excel，
+ - 再將處理完的資料export到Excel
+ - 用Excel整理資料，做出交易決策。
+
+ #1.使用Python獲取API資料
+ ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/Python%20API.png)
+
+ #2.將資料送進SQL處理
+ 先把json檔丟入json to csv converter，轉成csv再上傳至BigQuery。
+  ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/SQL%20API.png)
+再Export資料到EXCEL
+
+
+#3.用EXCEL處理資料
+
+先讀取CSV檔案
+
+![Image Alt text](https://github.com/KuanTimLin/images/blob/main/csv%E6%AA%94%E6%A1%88.png)
+
+再從Data => From Web抓取台銀匯率資料
+
+![Image Alt text](https://github.com/KuanTimLin/images/blob/main/%E5%8C%AF%E7%8E%87.png)
+
+
+將csv檔的資料作成PivotTable，並設定呈現的value為最小，這樣就可篩選出任意相同標的物品的底價(底價物品流通性高)。
+
+![Image Alt text](https://github.com/KuanTimLin/images/blob/main/pivot%20table%203.png)
+  
+
+做出簡易公式做交易決策。在底下深藍色區塊輸入自大陸買進的物品價格，上方公式會轉換成台幣並扣除手續費的金額。
+在最後一格使用條件式，若淨額>0等於獲利，反之無獲利。
+使用conditional formating，獲利=綠色，無獲利=紅色。
+
+
+![Image Alt text](https://github.com/KuanTimLin/images/blob/main/pivot%20table%203.png)
+
+
+依結果決定要不要買入。
 
 
 
