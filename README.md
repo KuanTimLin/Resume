@@ -37,7 +37,7 @@
    
 
 ### 作品集 1
- #＃ 分析CS選手比賽數據
+ ## 分析CS選手比賽數據
  - CS為目前世界上最大FPS(第一人稱射擊遊戲）電競比賽，此作品集旨在分析選手個人準度與對比賽輸贏影響力之間是否呈現正相關。
  - 個人準度指標：步槍手（暴頭率＊擊殺數/死亡數)＆狙擊手(擊殺數/死亡數）
  - 對比賽輸贏影響力：這裡使用的Rating是源自於HLTV，是一個綜和指標。數值愈大，這選手越強，有他在勝率越高。
@@ -45,7 +45,7 @@
    
    此處使用的資料為Kaggle上此作者的著作:(https://www.kaggle.com/datasets/naumanaarif/csgo-pro-players-dataset)
    
-#＃使用R來處理資料
+##使用R來處理資料
 
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/R%20語言1.png)
 
@@ -63,12 +63,12 @@
 ＃結論：不論步槍手和狙擊手，準度確實與選手在賽場上的影響力呈現正相關。
 
 ### 作品集 2
- #＃ 製作CS選手的KD＆Rating的Tableau圖表
+ ## 製作CS選手的KD＆Rating的Tableau圖表
  - 使用SQL確認資料完整性，並篩選所需資料
  - 將清理過的csv檔送進Tableau做視覺化
  - 圖表將選手Kill/Death從高到低排序，並使用顏色深到淺代表他們的Rating。圖表可以觀察哪位選手Kill/Death最高，Rating和Kill/Death之間的關係。
 
-#＃使用SQL來處理資料
+##使用SQL來處理資料
 
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/SQL%201.png)
 
@@ -99,6 +99,15 @@
 
 #Tableau視覺化呈現
 ![Image Alt text](https://github.com/KuanTimLin/images/blob/main/Tableau圖表.png)
+
+
+
+### 作品集 2
+ ## 製作CS物品的市場爬蟲交易模型
+ # CS裡面的槍枝造型，為現在市面上最大型的遊戲虛寶交易市場。此作品集旨在建立爬蟲模型監控西方市場狀況，並且在大陸買入低價造型，賺取價差。
+ - 使用Python獲取API資料
+ - 將資料送進SQL處理
+ - 再將資料export到Excel，
 
 
 
